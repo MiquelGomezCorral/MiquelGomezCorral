@@ -1,4 +1,4 @@
-# Miquel Gómez Corral 👋
+# Soy Miquel Gómez Corral ¡bienvenido a mi Github! 👋
 
 # 💫 About Me:
 I’m a 4th-year Computer Engineering student at Universitat Politècnica de València (UPV), currently on Erasmus at EPFL (Lausanne).<br><br>🎯 Passionate about AI & Machine Learning—I’ve completed 2 industry internships in ERP extensions (Navision) and React/Next.js web apps.<br>👾 AmmaCodeLikeNoOneMama<br>🌐 Bilingual (Spanish & Valencian), B2-level English (Cambridge certified).
