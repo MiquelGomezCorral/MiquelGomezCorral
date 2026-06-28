@@ -17,9 +17,5 @@ I am a Computer Engineer with a Master's in AI, Digital Image, and Natural Langu
 ![](https://nirzak-streak-stats.vercel.app/?user=MiquelGomezCorral&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiquelGomezCorral&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-<!-- Note: Replace YOUR_REPO_NAME with your actual best repository name -->
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=MiquelGomezCorral&repo=YOUR_REPO_NAME&theme=dark)](https://github.com/MiquelGomezCorral/YOUR_REPO_NAME)
-
 ---
 [![](https://komarev.com/ghpvc/?username=MiquelGomezCorral&style=flat-square&color=blue&label=PROFILE+VIEWS)](https://github.com/MiquelGomezCorral)
